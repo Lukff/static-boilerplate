@@ -5,7 +5,9 @@
   "main": "gulpfile.js",
   "dependencies": {},
   "devDependencies": {
+    "bootstrap": "^4.4.1",
     "browser-sync": "^2.26.7",
+    "del": "^5.1.0",
     "gulp": "^4.0.2",
     "gulp-nunjucks-render": "^2.2.3",
     "gulp-sass": "^4.0.2",
