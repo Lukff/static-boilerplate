@@ -1,0 +1,13 @@
+@import 'imports/variables';
+@import "../../node_modules/bootstrap/scss/bootstrap";
+
+body {
+  color: theme-color("mid-gray");
+}
+
+.banner {
+  height: 400px;
+  background-image: url("../img/banner-bg.jpg");
+  background-size: cover;
+  background-position: center center;
+}
